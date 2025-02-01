@@ -36,8 +36,7 @@ header_pages:
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
-  skin: auto
-  # Minima skin selection.
+  skin: classic
   # Available skins are:
   # classic	           Default, light color scheme.
   # dark	             Dark variant of the classic skin.
