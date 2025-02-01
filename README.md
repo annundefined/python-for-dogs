@@ -42,6 +42,12 @@ The Python console does some pretty cool stuff. Try typing 1 + 1 and then hittin
 
 Stuff goes here woof!
 
+### Recommended reading
+
+- link
+- link
+- woof
+
 ### An Ode to JSforCats
 
 Much of this website was inspired by JS for Cats and the work done by [@maxogden](https://github.com/max-mapper). If you happen to be a Cat and want to learn JavaScript instead, do check out [JSForCats.com](http://jsforcats.com/). If you are a Dog and would like to contribute to make this tutorial better, there is a Github repo right over here. 
