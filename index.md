@@ -8,4 +8,4 @@
 layout: home
 ---
 
-alksjdasljdlajs
+WIP see: https://github.com/annundefined/python-for-dogs/blob/main/README.md
