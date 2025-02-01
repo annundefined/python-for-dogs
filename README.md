@@ -1,5 +1,3 @@
-# Python for Dogs
-
 **So easy your human companion could do it too!**
 
 Python is a programming language which are instructions for computers on how to do things. Just the same as one controls humans with giant pleading eyes or incessant whining, one controls computers with statements written in a programming language. It is easy to get started with Python so you can have computers do crazy things!
